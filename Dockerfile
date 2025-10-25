@@ -12,4 +12,4 @@ RUN mkdir /VJ-FILTER-BOT
 WORKDIR /VJ-FILTER-BOT
 COPY . /VJ-FILTER-BOT
 
-CMD ["python", "bot.py"]
+CMD ["python", "mein.py"]
